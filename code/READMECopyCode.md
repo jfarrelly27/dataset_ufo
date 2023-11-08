@@ -1,2 +1,2 @@
-# dataset_ufo
-Repository for UFO sighting data collection and analysis
+# dataset_ufo/code
+Web scraping code used to create the dataset.
